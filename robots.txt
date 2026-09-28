@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.hws9wbf.cn/sitemap.xml
